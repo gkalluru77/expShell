@@ -9,3 +9,4 @@ while [ "$a" -gt 0 ]; do
     echo Fruit Name - $fruit
     sleep 1
     done
+
